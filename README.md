@@ -26,5 +26,6 @@ The analysis of the election show that:
 * The winner of the election was:
   - Winner: Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 ## Challenge Overview
-
+This challenge helps and guides us on how to use python and can be easily programmed with VBC. The program is written can extract, analyze and realize the desired analysis results on the date of election results.
 ## Challenge Summary
+This task is a challenge for me as this is my first exposure to python. Through the step-by-step analysis and explanation of the course, I have a preliminary understanding and understanding of python and can perform simple coding and analysis. Although there are still many areas that are not proficient, there is still a lot to continue to learn.
