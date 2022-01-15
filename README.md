@@ -14,6 +14,9 @@ Data Resource: election_results.csv
 Software: Python 3.7.6, Visual Studio Code, 1.63.2
 
 ## Results
+
+
+![Analysis Results](Election_analysis_results.png)
 The analysis of the election show that:
 * There were 369711 votes cast in the election.
 * A complete list of each counties who recieved votes
